@@ -1,3 +1,13 @@
+👤 **My contribution** — team project
+>
+> I worked on the **cloud infrastructure and backend** side, on Microsoft Azure:
+> - **Infrastructure as Code (Azure Bicep)** — provisioned the Azure resources declaratively
+> - **Migrated the backend to Azure Functions** (serverless)
+> - **Azure Service Bus** — asynchronous messaging between services
+> - Built **skeleton loaders** on the frontend for smoother loading states
+>
+> Original team repo: https://github.com/ZakariaShahruriUCLL/Finance-Tracker
+
 # Finance Tracker
 
 A cloud-native personal finance tracking application built on Microsoft Azure.
